@@ -41,8 +41,6 @@ namespace assig_6_OPP
             //_3D_Point p2 = new _3D_Point(x2, y2, z2);
             //Console.WriteLine(p2.ToString()); 
             #endregion
-            // عارف عاوزه تتعمل بجزء  ==
-            // معرفتش اعملها عملتها بطريقه تانيه
             #region 4
             //if (p1.compare_twoPoint(p2))
             //    Console.WriteLine("p1 and p2 equal");
